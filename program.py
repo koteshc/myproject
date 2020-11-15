@@ -1,2 +1,1 @@
-git@github.com:koteshc/myproject.gii
-")
+print("Hello")
